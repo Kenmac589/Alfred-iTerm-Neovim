@@ -1,26 +1,5 @@
 <h1 align="center"><b>Neovim and iTerm2 alfred workflow</b></h1>
 
-<style>
-  .container 
-  {
-    display: flex;
-    align-items: center;
-    justify-content: center
-  }
-  img 
-  {
-    max-width: 100%
-  }
-  .image 
-  {
-    flex-basis: 70%;
-    order: 2;
-  }
-  .text {
-    padding-left: 20px;
-  }
-</style>
-
 <body>
     <div class="container">
         <div class="image">
